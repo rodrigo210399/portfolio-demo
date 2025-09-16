@@ -13,3 +13,8 @@ Repository created for exposition purposes. It contains sanitized reports and co
     1. **Data Cleaning** – applying multiple techniques to handle missing values, outliers, and inconsistencies.
     2. **Data Preprocessing** – transforming, normalizing, and encoding data to adapt to different use cases.  
     3. **STGNN Model** – implementation of a Spatio-Temporal Graph Neural Network, including model training and performance evaluation results.
+    
+---
+
+💡 *“A well-written code doesn't need too many comments because it explains itself.”*  
+— A lazy but good programmer 😎
